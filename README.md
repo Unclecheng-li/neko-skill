@@ -17,7 +17,7 @@
 ## 📦 安装
 
 ```bash
-npx skills add 你的用户名/neko-skill
+npx skills add Unclecheng-li/neko-skill
 ```
 
 或手动复制 `SKILL.md` 到你的 Skills 目录。
